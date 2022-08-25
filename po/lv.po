@@ -2,77 +2,88 @@ msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-02-10 14:18+0100\n"
+"PO-Revision-Date: 2022-08-25 23:19+0000\n"
+"Last-Translator: Coool <coool@mail.lv>\n"
+"Language-Team: Latvian <https://hosted.weblate.org/projects/feedreader/"
+"translations/lv/>\n"
+"Language: lv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 0 || n % 100 >= 11 && n % 100 <= "
+"19) ? 0 : ((n % 10 == 1 && n % 100 != 11) ? 1 : 2);\n"
+"X-Generator: Weblate 4.14-dev\n"
 
 #: data/org.gnome.FeedReader-autostart.desktop.in:3
 msgid "FeedReader Autostart"
-msgstr ""
+msgstr "Automātiski palaist FeedReader"
 
 #: data/org.gnome.FeedReader-autostart.desktop.in:4
 #: data/org.gnome.FeedReader.desktop.in:4
 msgid "RSS Client"
-msgstr ""
+msgstr "RSS klients"
 
 #: data/org.gnome.FeedReader-autostart.desktop.in:6
 msgid "Categories=Network;Feed;"
-msgstr ""
+msgstr "Kategorijas=Web;Internets;RSS;feed;news;"
 
 #: data/org.gnome.FeedReader-autostart.desktop.in:8
 #: data/org.gnome.FeedReader.desktop.in:8
 msgid "org.gnome.FeedReader"
-msgstr ""
+msgstr "org.gnome.FeedReader"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:6
 #: data/org.gnome.FeedReader.desktop.in:3 src/Widgets/MainWindow.vala:44
 msgid "FeedReader"
-msgstr ""
+msgstr "FeedReader"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:7
 msgid "RSS client for various webservices"
-msgstr ""
+msgstr "RSS klients dažādiem tīmekļa pakalpojumiem"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:10
 msgid ""
 "FeedReader is a program designed to complement an already existing web-based "
 "RSS reader account."
 msgstr ""
+"FeedReader - programma, kas izstrādāta, lai papildinātu esošo RSS lasītāja "
+"kontus."
 
 #: data/org.gnome.FeedReader.appdata.xml.in:13
 msgid "Currently supported services:"
-msgstr ""
+msgstr "Atbalstītie resursi:"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:15
 msgid "Feedbin"
-msgstr ""
+msgstr "Feedbin"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:17
 msgid "Feedly"
-msgstr ""
+msgstr "Feedly"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:19
 msgid "FreshRSS"
-msgstr ""
+msgstr "FreshRSS"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:21
 msgid "InoReader"
-msgstr ""
+msgstr "InoReader"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:23
 msgid "Local RSS"
-msgstr ""
+msgstr "Datora (lokālais) RSS"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:24
 msgid "Nextcloud/ownCloud"
-msgstr ""
+msgstr "Nextcloud/ownCloud"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:26
 msgid "The Old Reader"
-msgstr ""
+msgstr "The Old Reader"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:27
 msgid "Tiny Tiny RSS"
-msgstr ""
+msgstr "Tiny Tiny RSS"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:29
 msgid ""
@@ -82,64 +93,80 @@ msgid ""
 "it-later\" services like Pocket and Instapaper, handy keyboard shortcuts and "
 "a database that keeps all your old articles as long as you like."
 msgstr ""
+"Tas apvieno visas tīmekļa resursa pakalpojumu priekšrocības, piemēram, "
+"sinhronizāciju visās jūsu ierīcēs, kā arī pārējās lietas, ko sagaidāt no "
+"modernas darbvirsmas programmas: darbvirsmas paziņojumi, ātrā meklēšana un "
+"filtrēšana, marķēšana, kopīgošana ar tādiem \"lasīt vēlāk\" resursa "
+"pakalpojumiem kā Pocket un Instapaper, ērti īsinājumtaustiņi un datu bāze, "
+"kurā tiek glabāti visi jūsu vecie raksti tik ilgi, cik vēlaties."
 
 #: data/org.gnome.FeedReader.appdata.xml.in:37
 msgid ""
 "FeedReader also allows you to save articles to read-it-later with the "
 "supported services for now:"
 msgstr ""
+"FeedReader arī ļauj saglabāt rakstus vēlākai lasīšanai, izmantojot "
+"atbalstītos resursa pakalpojumus:"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:39
 msgid "Instapaper"
-msgstr ""
+msgstr "Instapaper"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:40
 msgid "Pocket"
-msgstr ""
+msgstr "Pocket"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:41
 msgid "Wallabag"
-msgstr ""
+msgstr "Wallabag"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:43
 msgid "It also let you share any article with your friends using:"
 msgstr ""
+"FeedReader arī ļauj kopīgot rakstu ar draugiem, izmantojot atbalstītos "
+"resursa pakalpojumus:"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:45
 msgid "Email"
-msgstr ""
+msgstr "E-pasts"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:46
 msgid "Twitter"
-msgstr ""
+msgstr "Twitter"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:47
 #: plugins/share/Telegram/Telegram.vala:81
 msgid "Telegram"
-msgstr ""
+msgstr "Telegram"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:73
 msgid "Jan Lukas Gernert"
-msgstr ""
+msgstr "Jan Lukas Gernert"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:79
 msgid ""
 "Fix \"copy feed\" right click menu in Bazqux, FeedHQ, InoReader and TT-RSS"
 msgstr ""
+"Labot labā klikšķa \"kopēt plūsmu\" izvēlni iekš Bazqux, FeedHQ, InoReader "
+"un TT-RSS"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:86
 msgid ""
 "Improve error messages when failing to add a feed in the local and DecSync "
 "plugins"
 msgstr ""
+"Uzlabot kļūdu ziņojumus, ja neizdodas pievienot plūsmu lokālajos un DecSync "
+"spraudņos"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:87
 msgid "Auto-fill missing URI scheme when adding feeds and in the TT-RSS setup"
 msgstr ""
+"Automātiski aizpildiet trūkstošo URI shēmu, kad pievieno ziņu plūsmas un TT-"
+"RSS iestatījumos"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:88
 msgid "Use dc:creator tag for authors in local and DecSync RSS feeds"
-msgstr ""
+msgstr "Izmantot dc:creator tagu autoriem lokālās un DecSync RSS plūsmās"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:89
 msgid "TT-RSS: Handle the API sending us ints as strings and strings as ints"
@@ -157,11 +184,11 @@ msgstr ""
 
 #: data/org.gnome.FeedReader.appdata.xml.in:92
 msgid "TT-RSS: Various other improvements to make the plugin more maintainable"
-msgstr ""
+msgstr "TT-RSS: Dažādi citi uzlabojumi, lai padarītu spraudni apkopjamāku"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:99
 msgid "Fix bugs when adding, deleting and renaming article tags"
-msgstr ""
+msgstr "Izlabot kļūdas, pievienojot, dzēšot un pārdēvējot raksta birkas"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:106
 msgid "Fix thread safety issues, hopefully fix a lot of crashes"
@@ -169,16 +196,16 @@ msgstr ""
 
 #: data/org.gnome.FeedReader.appdata.xml.in:113
 msgid "Fix version number"
-msgstr ""
+msgstr "Izlabot versijas numuru"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:114
 msgid "Fix crash in article list"
-msgstr ""
+msgstr "Izlabot avāriju rakstu sarakstā"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:115
 #: data/org.gnome.FeedReader.appdata.xml.in:164
 msgid "More translations"
-msgstr ""
+msgstr "Vēl tulkojumi"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:122
 msgid "Fix release tarballs to contain all necessary code"
@@ -186,25 +213,29 @@ msgstr ""
 
 #: data/org.gnome.FeedReader.appdata.xml.in:129
 msgid "Add DecSync plugin"
-msgstr ""
+msgstr "Pievienot DecSync spraudni"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:136
 msgid "Add right-click menu on article rows to copy URL"
 msgstr ""
 
 #: data/org.gnome.FeedReader.appdata.xml.in:137
+#, fuzzy
 msgid "Try to unlock the keyring when we use it instead of at startup"
 msgstr ""
+"Mēģināt atbloķēt atslēgu piekariņu, kad to lieto, nevis startēšanas laikā"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:138
 msgid ""
 "Change how we delete categories so feeds and subcategories are recategorized "
 "correctly"
 msgstr ""
+"Mainīt kategoriju dzēšanas veidu, lai ziņu plūsmas un apakškategorijas tiktu "
+"pārkategorizētas pareizi"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:139
 msgid "Feedbin Plugin: Mark Feedbin as free software"
-msgstr ""
+msgstr "Feedbin spraudnis: Atzīmēt Feedbin kā bezmaksas programmatūru"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:146
 msgid "Attempt to unlock the keyring on startup if necessary"
@@ -213,6 +244,7 @@ msgstr ""
 #: data/org.gnome.FeedReader.appdata.xml.in:147
 msgid "Improvements to the database internals to make crashes less likely"
 msgstr ""
+"Datubāzes iekšējo elementu uzlabojumi, lai samazinātu avāriju iespējamību"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:154
 msgid ""
@@ -226,44 +258,48 @@ msgstr ""
 
 #: data/org.gnome.FeedReader.appdata.xml.in:162
 msgid "Scale large images in articles to fit in the window"
-msgstr ""
+msgstr "Mērogot lielus attēlus rakstos, lai tie ietilptu logā"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:163
 msgid ""
 "Local plugin: Fix a bug where a new feed could use a deleted feed's favicon"
 msgstr ""
+"Lokālais spraudnis: Labot kļūdu, kuras dēļ jauna ziņas plūsma varētu "
+"izmantot dzēstas plūsmas izlases ikonu"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:171
 msgid "Replace libvilistextum with Gumbo parser and GLib's UTF-8 fixing"
-msgstr ""
+msgstr "Aizstāt libvilistextum ar Gumbo parseri un GLib UTF-8 labojumu"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:178
 msgid "Fix few crashes and encoding issues related to Libvilistextum"
 msgstr ""
+"Novērst dažas avārijas un kodēšanas problēmas saistībā ar Libvilistextum"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:179
 msgid "FreshAPI: Fix broken editTag function"
-msgstr ""
+msgstr "FreshAPI: Labot bojāto editTag funkciju"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:186
+#, fuzzy
 msgid "Removed the daemon process"
-msgstr ""
+msgstr "Dēmona process ir noņemts"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:187
 msgid "Switched to Meson build system"
-msgstr ""
+msgstr "Pārslēgts uz Meson sistēmu"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:188
 msgid "Faster initial sync and favicon loading"
-msgstr ""
+msgstr "Ātrāka sākotnējā sinhronizācija un ziņu plūsmas izlases ikonu ielāde"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:189
 msgid "Improved Feedbin plugin"
-msgstr ""
+msgstr "Uzlabotais Feedbin spraudnis"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:190
 msgid "A lot of bug fixes"
-msgstr ""
+msgstr "Daudz kļūdu labojumu"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:199
 msgid ""
@@ -273,15 +309,15 @@ msgstr ""
 
 #: data/org.gnome.FeedReader.appdata.xml.in:204
 msgid "New features:"
-msgstr ""
+msgstr "Jaunas funkcijas:"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:206
 msgid "Saving of Images"
-msgstr ""
+msgstr "Attēlu saglabāšana"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:208
 msgid "bugfixes:"
-msgstr ""
+msgstr "Kļūdu labojumi:"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:210
 msgid "FileChooser sidebar inherits theme from feedList #174"
@@ -320,23 +356,23 @@ msgstr ""
 
 #: data/org.gnome.FeedReader.appdata.xml.in:223
 msgid "Inoreader support"
-msgstr ""
+msgstr "Inoreader atbalsts"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:224
 msgid "Offline Mode"
-msgstr ""
+msgstr "Bezsaistes režīms"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:225
 msgid "Imageviewer"
-msgstr ""
+msgstr "Attēlu skatītājs"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:226
 msgid "Manipulate feeds and categories"
-msgstr ""
+msgstr "Rediģēt plūsmas un kategorijas"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:227
 msgid "Sidebar themes"
-msgstr ""
+msgstr "Sānjoslas motīvi"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:228
 msgid "Support http-basic-auth"
@@ -344,23 +380,24 @@ msgstr ""
 
 #: data/org.gnome.FeedReader.appdata.xml.in:229
 msgid "Article List: Time stamp"
-msgstr ""
+msgstr "Rakstu saraksts: Laika zīmogs"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:230
 msgid "Article List: Double click to open in browser"
-msgstr ""
+msgstr "Rakstu saraksts: Lai atvērtu pārlūkprogrammā jāveic dubultklikšķis"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:231
 msgid "Article View: Show URL on mouseover"
-msgstr ""
+msgstr "Raksta skats: Rādīt tīmekļa vietnes URL, kad novieto peles kursoru virs"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:232
+#, fuzzy
 msgid "Article View: Right click menu"
-msgstr ""
+msgstr "Raksta skats: ar peles labo pogu noklikšķiniet uz izvēlnes"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:233
 msgid "Article View: Configure font size"
-msgstr ""
+msgstr "Raksta skats: iestatīt fonta lielumu"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:234
 msgid "Commit version in \"--about\""
@@ -368,27 +405,27 @@ msgstr ""
 
 #: data/org.gnome.FeedReader.appdata.xml.in:235
 msgid "Support GTK+ 3.20"
-msgstr ""
+msgstr "Atbalsta GTK+ 3.20"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:236
 msgid "HiDPI support"
-msgstr ""
+msgstr "Augstas izšķirtspējas (HiDPI) atbalsts"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:237
 msgid "Full-screen-mode"
-msgstr ""
+msgstr "Pilnekrāna režīms"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:238
 msgid "Lots of bugfixes"
-msgstr ""
+msgstr "Daudz kļūdu labojumu"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:245
 msgid "ownCloud News support"
-msgstr ""
+msgstr "ownCloud News atbalsts"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:246
 msgid "Sync more responsive"
-msgstr ""
+msgstr "Sinhronizē daudz ātrāk"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:247
 msgid "App fully operational during initial sync"
@@ -400,28 +437,29 @@ msgstr ""
 
 #: data/org.gnome.FeedReader.appdata.xml.in:249
 msgid "Better GNOME integration"
-msgstr ""
+msgstr "Labāka GNOME integrācija"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:250
 msgid "Proper fullscreen mode for videos"
-msgstr ""
+msgstr "Pienācīgs pilnekrāna režīms videoklipiem"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:251
+#, fuzzy
 msgid "Support multiple share accounts of the same kind"
-msgstr ""
+msgstr "Atbalstīt vairākus viena veida koplietošanas kontus"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:252
 msgid "Option to ignore unknown CA’s"
-msgstr ""
+msgstr "Iespēja ignorēt nezināmas sertifikācijas iestādes (CA)"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:253
 #: data/org.gnome.FeedReader.appdata.xml.in:268
 msgid "Tons of fixes"
-msgstr ""
+msgstr "Tonna labojumu"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:260
 msgid "Improved article-view"
-msgstr ""
+msgstr "Uzlabots raksta skats"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:261
 msgid "Drag article with middle mouse click"
@@ -441,7 +479,7 @@ msgstr ""
 
 #: data/org.gnome.FeedReader.appdata.xml.in:265
 msgid "Share articles to Readability/Instapaper/Pocket"
-msgstr ""
+msgstr "Kopīgot rakstus Readability/Instapaper/Pocket vietnē"
 
 #: data/org.gnome.FeedReader.appdata.xml.in:266
 msgid ""
@@ -463,7 +501,7 @@ msgstr ""
 
 #: data/org.gnome.FeedReader.desktop.in:19 src/FeedReader.vala:21
 msgid "About FeedReader"
-msgstr ""
+msgstr "Par FeedReader"
 
 #. http auth stuff ----------------------------------------------------
 #: plugins/backend/bazqux/bazquxInterface.vala:61
@@ -479,7 +517,7 @@ msgstr ""
 #: plugins/share/Instapaper/InstapaperSetup.vala:55
 #: plugins/share/Wallabag/WallabagSetup.vala:76
 msgid "Username:"
-msgstr ""
+msgstr "Lietotājvārds:"
 
 #: plugins/backend/bazqux/bazquxInterface.vala:62
 #: plugins/backend/feedbin/feedbinInterface.vala:63
@@ -494,12 +532,14 @@ msgstr ""
 #: plugins/share/Instapaper/InstapaperSetup.vala:56
 #: plugins/share/Wallabag/WallabagSetup.vala:77
 msgid "Password:"
-msgstr ""
+msgstr "Parole:"
 
 #: plugins/backend/bazqux/bazquxInterface.vala:92
 #: plugins/backend/feedhq/feedhqInterface.vala:92
 msgid "Please log in to FeedHQ and enjoy using FeedReader"
 msgstr ""
+"Lūdzu, autorizējieties savā FeedHQ kontā, lai sāktu izbaudīt lietot "
+"FeedReader"
 
 #: plugins/backend/bazqux/bazquxInterface.vala:97
 #: plugins/backend/feedbin/feedbinInterface.vala:73
@@ -509,33 +549,35 @@ msgstr ""
 #: plugins/backend/owncloud/OwncloudNewsInterface.vala:168
 #: plugins/backend/ttrss/ttrssInterface.vala:146 src/Share/ServiceSetup.vala:56
 msgid "Login"
-msgstr ""
+msgstr "Pieslēgties"
 
 #: plugins/backend/feedbin/feedbinInterface.vala:98
 msgid "Please log in to Feedbin to enjoy using FeedReader"
-msgstr ""
+msgstr "Lūdzu, autorizējieties Feedbin, lai sāktu izbaudīt lietot FeedReader"
 
 #: plugins/backend/fresh/freshInterface.vala:66
 msgid "freshRSS URL:"
-msgstr ""
+msgstr "freshRSS tīmekļa vietnes URL:"
 
 #: plugins/backend/fresh/freshInterface.vala:133
 #: plugins/backend/owncloud/OwncloudNewsInterface.vala:156
 #: plugins/backend/ttrss/ttrssInterface.vala:132
 msgid "HTTP Authorization"
-msgstr ""
+msgstr "HTTP autorizācija"
 
 #: plugins/backend/fresh/freshInterface.vala:142
 msgid "Please log in to your freshRSS server and enjoy using FeedReader"
 msgstr ""
+"Lūdzu, autorizējieties savā freshRSS serverī, lai sāktu izbaudīt lietot "
+"FeedReader"
 
 #: plugins/backend/local/localInterface.vala:62
 msgid "Done"
-msgstr ""
+msgstr "Paveikts"
 
 #: plugins/backend/local/localInterface.vala:63
 msgid "Adding Feeds"
-msgstr ""
+msgstr "Ziņu plūsmu pievienošana"
 
 #. Logger.info("Got content: " + item.description);
 #. Logger.info("Converted to: " + item.description);
@@ -579,7 +621,7 @@ msgstr ""
 
 #: plugins/backend/ttrss/ttrssAPI.vala:793
 msgid "Invalid URL"
-msgstr ""
+msgstr "Nederīga tīmekļa vietnes URL adrese"
 
 #: plugins/backend/ttrss/ttrssAPI.vala:796
 msgid "URL content is HTML, no feeds available"
@@ -603,7 +645,7 @@ msgstr ""
 
 #: plugins/backend/ttrss/ttrssInterface.vala:65
 msgid "Tiny Tiny RSS URL:"
-msgstr ""
+msgstr "Tiny Tiny RSS tīmekļa vietnes URL adrese:"
 
 #: plugins/backend/ttrss/ttrssInterface.vala:141
 msgid "Please log in to your Tiny Tiny RSS server and enjoy using FeedReader"
